@@ -1,4 +1,4 @@
-Stats!?
+### 📉 Stats!? 📈
 
 <!--
 **Ashlc/Ashlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ashl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashlc)](https://github.com/ashlc/github-readme-stats)
+[![Ashl's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashlc?theme=codeSTACKr)](https://github.com/ashlc/github-readme-stats)
