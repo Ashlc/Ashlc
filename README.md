@@ -1,6 +1,6 @@
 <h1 align=center>Hey, I'm Isadora Paz, but you can call me Ash!</h1>
 
-I'm a 22yo Computer Science student at UFAL (Federal University of Alagoas, in Brazil). I'm a front-end enthusiast but I've fiddled with back-end as well.
+I'm a 22yo Computer Science student at UFAL (Federal University of Alagoas, in Brazil). I'm a front-end enthusiast but I fiddle with back-end as well.
 
 ### About me
 
@@ -23,6 +23,7 @@ I'm a 22yo Computer Science student at UFAL (Federal University of Alagoas, in B
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
 
@@ -37,6 +38,7 @@ I'm a 22yo Computer Science student at UFAL (Federal University of Alagoas, in B
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=Docusaurus&logoColor=white" alt="Docusaurus">
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
+   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
 </p>
 
 
