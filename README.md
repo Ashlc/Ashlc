@@ -62,7 +62,7 @@ I'm a 22yo Computer Science student at UFAL (Federal University of Alagoas, in B
 
 <p align=center>
   <a href="https://github.com/ashlc/github-readme-stats" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlc&theme=dracula&show_icons=true&hide=css&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashlc&theme=dracula&show_icons=true&hide=css&hide=html&layout=compact" alt="Top Languages">
   </a>
 </p>
 
