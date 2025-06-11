@@ -4,7 +4,7 @@ I'm a 23-year-old Computer Science student at UFAL (Federal University of Alagoa
 
 ### About me
 
-- 🔭 I’m currently working at **Lighthouse Software Systems** and **SEDUC-TI**
+- 🔭 I’m currently working at **Lighthouse Software Systems** and **LCCV**
 - 💬 Ask me about **UI/UX and Fullstack development**
 - 📫 How to reach me: mibp@ic.ufal.br
 - ⚡ Fun fact: I've been designing since I was 11 years old!
