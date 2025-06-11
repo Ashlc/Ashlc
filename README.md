@@ -1,13 +1,13 @@
 <h1 align=center>Hey, I'm Isadora Paz, but you can call me Ash!</h1>
 
-I'm a 22yo Computer Science student at UFAL (Federal University of Alagoas, in Brazil). I'm a front-end enthusiast but I fiddle with back-end as well.
+I'm a 23-year-old Computer Science student at UFAL (Federal University of Alagoas, Brazil). I'm a front-end enthusiast, but I also fiddle with the back-end.
 
 ### About me
 
 - 🔭 I’m currently working at **Lighthouse Software Systems** and **SEDUC-TI**
 - 💬 Ask me about **UI/UX and Fullstack development**
 - 📫 How to reach me: mibp@ic.ufal.br
-- ⚡ Fun fact: I've been desgining ever since I was 11 years old!
+- ⚡ Fun fact: I've been designing since I was 11 years old!
 
 <!--- 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ... -->
